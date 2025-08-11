@@ -19,6 +19,11 @@ This project aims to create **truly intelligent NPCs** that:
 
 ## 📂 Repository Structure
 
+VR-AI-Game/ | |---/docs/ >Game design documents |--- /unreal/ Unreal Engine project files |---/ai-scripts/ >AI behavior scripts |--- /voice/  >Voice models & scripts |---/assets/ >3d models textures, sounds. 
+
+----README.md
+
+
 ## 🚀 Goals
 - Build a functional VR prototype
 - Demonstrate adaptive combat AI
