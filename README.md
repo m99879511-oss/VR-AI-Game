@@ -1,5 +1,3 @@
-# VR-AI-Game
-VR game with AI-powered enemies and real-time dialogue.
 
 # VR-AI-Game
 A cutting-edge VR experience where enemies are powered by advanced AI — they fight dynamically, adapt to the player’s tactics, and can hold real-time conversations.
