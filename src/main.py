@@ -1,6 +1,8 @@
 Python
 
-import main
+# Entry point for VR-AI Game  
+def main():
+    print("VR-AI Game starting...")
 
-def test_start():
-    assert callable(main.main)
+if __name__ == "__main__":
+    main()
