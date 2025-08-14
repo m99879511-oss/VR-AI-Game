@@ -1,6 +1,26 @@
 
 # VR-AI-Game
 A cutting-edge VR experience where enemies are powered by advanced AI — they fight dynamically, adapt to the player’s tactics, and can hold real-time conversations.
+## 🚀 Quick Start - Setting Up AI
+
+To get your PC ready to run the AI components:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/m99879511-oss/VR-AI-Game.git
+cd VR-AI-Game
+
+# 2. Run the automated setup
+./scripts/setup.sh
+
+# 3. Activate the environment  
+source venv/bin/activate
+
+# 4. Test the setup
+python src/main.py
+```
+
+For detailed setup instructions, see [docs/AI_SETUP.md](docs/AI_SETUP.md).
 
 ## 🎯 Project Vision
 Most games use predictable scripted enemies.  

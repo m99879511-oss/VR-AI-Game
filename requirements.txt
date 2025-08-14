@@ -1,0 +1,39 @@
+# Core AI and Machine Learning dependencies
+openai>=1.0.0                # OpenAI API for AI dialogue
+elevenlabs>=0.2.0            # ElevenLabs TTS for voice generation
+numpy>=1.21.0                # Numerical computing
+scipy>=1.7.0                 # Scientific computing
+
+# Deep Learning frameworks
+torch>=2.0.0                 # PyTorch for AI models
+torchvision>=0.15.0          # Computer vision utilities
+transformers>=4.20.0         # Hugging Face transformers for NLP
+
+# Game development and VR integration
+pygame>=2.1.0                # Game development utilities
+pynput>=1.7.0                # Input handling
+
+# Audio processing for voice/sound
+pydub>=0.25.0                # Audio manipulation
+soundfile>=0.10.0            # Audio file I/O
+librosa>=0.9.0               # Audio analysis
+
+# Networking and API integration
+requests>=2.28.0             # HTTP requests
+websockets>=10.0             # Real-time communication
+fastapi>=0.95.0              # API framework
+uvicorn>=0.20.0              # ASGI server
+
+# Development and testing
+pytest>=7.0.0                # Testing framework
+pytest-asyncio>=0.21.0       # Async testing support
+black>=22.0.0                # Code formatting
+flake8>=5.0.0                # Code linting
+
+# Data handling
+pandas>=1.5.0                # Data analysis
+matplotlib>=3.6.0            # Plotting and visualization
+
+# Configuration and environment
+python-dotenv>=0.19.0        # Environment variable management
+pyyaml>=6.0                  # YAML configuration files
